@@ -61,42 +61,42 @@ Easy scalability for future enhancements
 
 📌 KEY PERFORMANCE INDICATORS (KPIs)
 The dashboard includes the following KPIs:
-1️⃣ Total Sales
-2️⃣ Quantity Sold
-3️⃣ Total Transactions
-4️⃣ Average Order Value
+1️ Total Sales
+2️ Quantity Sold
+3️ Total Transactions
+4️ Average Order Value
 These KPIs provide a quick overview of business performance and help stakeholders measure revenue growth and operational efficiency.
 
 📊 ANALYSIS & INSIGHTS
 📍 SALES BY OUTLET LOCATION
-✔️ Identifies the highest revenue-generating store
-✔️ Helps compare performance across multiple outlets
-✔️ Supports location-based marketing and stock planning
+1. Identifies the highest revenue-generating store
+2. Helps compare performance across multiple outlets
+3. Supports location-based marketing and stock planning
 
 📅 SALES BY MONTH ANALYSIS
-✔️ Highlights monthly sales trends
-✔️ Identifies peak and low-performing months
-✔️ Helps in seasonal demand forecasting
+1. Highlights monthly sales trends
+2. Identifies peak and low-performing months
+3. Helps in seasonal demand forecasting
 
 🧩 SALES BY PRODUCT CATEGORY
-✔️ Identifies best-performing product categories
-✔️ Helps optimize product mix
-✔️ Supports revenue-focused product strategy
+1. Identifies best-performing product categories
+2. Helps optimize product mix
+3. Supports revenue-focused product strategy
 
 📋 PRODUCT PERFORMANCE BY QUANTITY
-✔️ Identifies fast-moving coffee products
-✔️ Supports inventory replenishment planning
-✔️ Helps reduce stock-outs
+1. Identifies fast-moving coffee products
+2. Supports inventory replenishment planning
+3. Helps reduce stock-outs
 
 🏪 STORE LOCATION BY PRODUCT CATEGORY
-✔️ Shows category-wise contribution across stores
-✔️ Identifies which product performs best in which outlet
-✔️ Supports location-based assortment planning
+1. Shows category-wise contribution across stores
+2. Identifies which product performs best in which outlet
+3. Supports location-based assortment planning
 
 📆 WEEKEND SALES ANALYSIS
-✔️ Identifies weekend sales trends
-✔️ Helps understand customer purchasing behavior on high-footfall days
-✔️ Supports staffing and promotional planning
+1. Identifies weekend sales trends
+2. Helps understand customer purchasing behavior on high-footfall days
+3. Supports staffing and promotional planning
 
 🛠️ TOOLS & TECHNOLOGIES USED
 🖥️ Power BI Desktop – Dashboard development and visualization
@@ -115,11 +115,11 @@ These KPIs provide a quick overview of business performance and help stakeholder
 
 🚀 BUSINESS VALUE
 This dashboard transforms raw sales data into clear, actionable insights that help:
-✔️ Identify the highest-performing store location
-✔️ Track monthly and weekend sales trends
-✔️ Optimize product assortment strategy
-✔️ Improve inventory planning
-✔️ Monitor overall revenue performance
+1. Identify the highest-performing store location
+2. Track monthly and weekend sales trends
+3. Optimize product assortment strategy
+4. Improve inventory planning
+5. Monitor overall revenue performance
 
 📌 CONCLUSION
 The Maeven Roaster Coffee Sales Dashboard provides a structured and data-driven approach to analyzing retail coffee sales performance.
