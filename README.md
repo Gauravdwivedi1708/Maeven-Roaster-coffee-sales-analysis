@@ -128,4 +128,5 @@ It enables stakeholders to make informed decisions focused on revenue growth, de
 
 DASHBOARD:-
 
+<img width="1261" height="696" alt="Maeven Roaster sales analysis dashboard" src="https://github.com/user-attachments/assets/e16e711c-9911-433b-ad2c-81ef407ea5ba" />
 
